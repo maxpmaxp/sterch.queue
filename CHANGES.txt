@@ -2,6 +2,10 @@
 CHANGES
 =======
 
+0.1.1 (unreleased)
+------------------
+ 	*
+
 0.1 (2010-12-23)
 ----------------
 	* component architecture wrappers around standard Queue library objects

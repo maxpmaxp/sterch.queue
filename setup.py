@@ -49,7 +49,7 @@ def alltests():
     return suite
 
 setup( name='sterch.queue',
-    version='0.1',
+    version='0.1.1a',
     url='http://pypi.sterch.net/sterch.queue',
     license='ZPL 2.1',
     description='Provides interfaces and ZCML directives for standard Queue library objects',
