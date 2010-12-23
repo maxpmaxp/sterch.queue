@@ -1,0 +1,8 @@
+=======
+CHANGES
+=======
+
+0.1 (unreleased)
+----------------
+	* component architecture wrappers around standard Queue library objects
+	* ZCML directives to register utilities
