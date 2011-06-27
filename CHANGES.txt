@@ -2,9 +2,9 @@
 CHANGES
 =======
 
-0.1.1 (unreleased)
+0.1.1 (2011-06-27)
 ------------------
- 	*
+	* zope.app.component dependency has been removed
 
 0.1 (2010-12-23)
 ----------------
